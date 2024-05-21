@@ -1,4 +1,4 @@
-# Flutter: basic layout sample
+# Flutter: basic layout samples
 
 Learning Flutter involves understanding not only the UI framework but also the architectural patterns that can help manage your app's complexity as it grows
 
