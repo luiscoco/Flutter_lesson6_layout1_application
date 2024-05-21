@@ -1,2 +1,9 @@
-# Flutter_lesson6_layout1_application
-Flutter: my first layout sample
+# Flutter: my first layout sample
+
+## 1. 
+
+
+## 2. 
+
+
+## 3. 
